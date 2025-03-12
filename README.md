@@ -1,1 +1,1 @@
-# pass_gen
+#qr_code_gen
